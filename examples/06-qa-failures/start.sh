@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Ejemplo 06: Inicialización de escenario QA Failures
+# Ejemplo 04: Inicialización de escenario QA Failures
 # Crea un repo, ramas develop, features A, B, C, mergea y genera D/E
 
 # 1. Inicializar repo y rama develop
